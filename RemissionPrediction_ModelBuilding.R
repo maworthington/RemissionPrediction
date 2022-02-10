@@ -1,6 +1,8 @@
 ### Individualized Prediction of Remission, Part II
 ### Author: Michelle Worthington, 2020 
 
+### This code performs feature selection in a clinical dataset and trains a GBM classification model to predict clinical recovery. 
+
 library(glmnet)
 library(caret)
 library(smotefamily)
