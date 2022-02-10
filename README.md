@@ -15,4 +15,4 @@ Using data from two distinct waves of the North American Prodrome Longitudinal S
 4) <b> Model performance: </b> Our classification algorithm developed in NAPLS3 achieved an AUC of 0.66 (0.60–0.72) with a sensitivity of 0.68 and specificity
 of 0.53 when tested in the NAPLS2 sample. Overall, remitters had lower baseline prodromal symptoms than nonremitters.
 
-![alt text](https://github.com/maworthington/RemissionPrediction/blob/main/OutcomePredictionWorkflow.jpg?raw=TRUE)
+![alt text](https://github.com/maworthington/RemissionPrediction/blob/main/OutcomePredictionWorkflow.png?raw=TRUE)
