@@ -1,6 +1,6 @@
 # RemissionPrediction
 
-This repository contains code to replicate the analyses performed in Worthington et al. 2021, Schizophrenia Bulletin. 
+This repository contains code to replicate the analyses performed in Worthington et al. 2021, Schizophrenia Bulletin: Individualized Prediction of Prodromal Symptom Remission for Youth at Clinical High Risk for Psychosis. 
 
 Using data from two distinct waves of the North American Prodrome Longitudinal Study (NAPLS2 and NAPLS3), we used a data-driven method to select relevant clinical, demographic and neurocognitive variables relevant to the outcome of remission. Our method involved the following steps:
 
