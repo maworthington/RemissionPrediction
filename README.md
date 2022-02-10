@@ -1,5 +1,7 @@
 # RemissionPrediction
 
+How can we optimize the prediction of future clinical outcomes from behavioral and clinical data from a single time point? 
+
 This repository contains code to replicate the analyses performed in Worthington et al. 2021, Schizophrenia Bulletin: Individualized Prediction of Prodromal Symptom Remission for Youth at Clinical High Risk for Psychosis. 
 
 Using data from two distinct waves of the North American Prodrome Longitudinal Study (NAPLS2 and NAPLS3), we used a data-driven method to select relevant clinical, demographic and neurocognitive variables relevant to the outcome of remission. Our method involved the following steps:
@@ -12,3 +14,4 @@ Using data from two distinct waves of the North American Prodrome Longitudinal S
 
 4) <b> Model performance: </b> Our classification algorithm developed in NAPLS3 achieved an AUC of 0.66 (0.60–0.72) with a sensitivity of 0.68 and specificity
 of 0.53 when tested in the NAPLS2 sample. Overall, remitters had lower baseline prodromal symptoms than nonremitters.
+
